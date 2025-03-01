@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=9ED2C0&background=FF77FE00&center=true&vCenter=true&width=1000&lines=What's+up+dude!+;I'm+Caroline+AKA+Carol;I'm+from+Brazil+🇧🇷;I'm+a+Frontend+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=9ED2C0&background=FF77FE00&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+;I'm+Caroline+AKA+Carol;I'm+from+Brazil+🇧🇷;I'm+a+Frontend+Developer!)](https://git.io/typing-svg)
 
 
 
