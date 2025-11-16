@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+<div align="center">
+  <img src="./BubblesAngryGIF.gif" >
+</div>
 
-![BubblesAngryGIF](https://github.com/user-attachments/assets/cbf7d99a-a757-4afa-ba48-5ea605629c50)
 
