@@ -23,7 +23,7 @@
 <h3>🌍 Languages</h3>
 <ul>
   <li><b>Portuguese:</b> Native</li>
-  <li><b>English:</b> Intermediate</li>
+  <li><b>English:</b> Intermediate B1</li>
 </ul>
 
 <h3>📬 Contact</h3>
